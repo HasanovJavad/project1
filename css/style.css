@@ -29,6 +29,10 @@ img {
   width: 100%;
 }
 
+.about-course {
+  background: #efefef;
+}
+
 @media screen and (max-width: 570px) {
   .cards-containter {
     display: grid;
